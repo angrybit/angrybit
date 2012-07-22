@@ -1,0 +1,23 @@
+body {
+  background: #F4F0F0;
+}
+
+.logo {
+  display:    block;
+  margin:     0 auto;
+  margin-top: 40px;
+  width:      400px;
+}
+
+.logo img {
+  display:    block;
+  margin:     0 auto;
+  text-align: center;
+  border: solid 2px;
+}
+
+.logo p {
+  line-height: 19px;
+  text-align:  center;
+  font-family: 'Press Start 2P', cursive;
+}
